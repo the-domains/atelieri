@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ATELIERI]]></title>
-        <description><![CDATA[ATELIERI]]></description>
+        <title><![CDATA[COLLECTION]]></title>
+        <description><![CDATA[COLLECTION]]></description>
         <link>https://thegrid.ai/atelieri/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 07:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 15:41:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/atelieri/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Illustration]]></title>
+            <description><![CDATA[<article><h1>Illustration</h1><p>As part of his Celestial Series, Chicago-based digital artist David Brodeur rendered an alien world filled with berry-like plants, glowing crystals, and candy shaped orbs that sprout from the ground. Despite their exotic designs, Brodeur relies on common colors of familiar fruits to create this Willy Wonka-esque habitat where you can't help but want to reach out and gobble everything up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d6c337dd3c98bcadd87c6b27fd94f1493ae65eb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/atelieri/illustration/index.html</link>
+            <guid isPermaLink="false">0400122c-93a8-4051-9816-a370aa8dfcf4</guid>
+            <pubDate>Thu, 18 Aug 2016 15:41:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Ars VR headset showdown-Oculus Rift vs. HTC Vive]]></title>
             <description><![CDATA[<article><h1>The Ars VR headset showdown-Oculus Rift vs. HTC Vive</h1><p>In our original reviews of the Oculus Rift and the HTC Vive, we tried very hard to examine these virtual reality systems on their own merits without constant comparisons to the competition. But no product exists in a vacuum. After years of buildup, we're now faced with two competitive, PC-tethered VR headsets hitting the market right next to each other.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a473611978ca4931a0d74678d9cd4a6eaafdb8a9.jpg"></article>]]></description>
             <link>http://arstechnica.com/gaming/2016/04/the-ars-vr-headset-showdown-oculus-rift-vs-htc-vive/</link>
             <guid isPermaLink="false">a071b92c-b21f-44ed-806d-50536eb502d8</guid>
-            <pubDate>Thu, 18 Aug 2016 07:54:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Illustration]]></title>
-            <description><![CDATA[<article><h1>Illustration</h1><p>As part of his Celestial Series, Chicago-based digital artist David Brodeur rendered an alien world filled with berry-like plants, glowing crystals, and candy shaped orbs that sprout from the ground. Despite their exotic designs, Brodeur relies on common colors of familiar fruits to create this Willy Wonka-esque habitat where you can't help but want to reach out and gobble everything up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d6c337dd3c98bcadd87c6b27fd94f1493ae65eb.jpg"></article>]]></description>
-            <link>http://www.thisiscolossal.com/category/illustration/</link>
-            <guid isPermaLink="false">0400122c-93a8-4051-9816-a370aa8dfcf4</guid>
             <pubDate>Thu, 18 Aug 2016 07:54:12 GMT</pubDate>
         </item>
         <item>
@@ -50,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]]]></title>
-            <description><![CDATA[<article><h1>The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]</h1><p>Design is a plan for arranging elements in such a way as to accomplish a particular purpose. - Charles Eames In order to arrange your design, you need a place to start. Backgrounds are the foundation of your graphics - it helps pave the path to forming a successful composition.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4ea9629ba4c28c7daf98778b1327aa28/noop.jpg?input=https%3A%2F%2Fdesignschool.canva.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2014%2F12%2FBackgrounds-Article-Facebook.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Design School's Ultimate Guide to Designing With Backgrounds [With Ready-to-Use Templates]</h1><p>Design is a plan for arranging elements in such a way as to accomplish a particular purpose. - Charles Eames In order to arrange your design, you need a place to start. Backgrounds are the foundation of your graphics - it helps pave the path to forming a successful composition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/877d79945943ec595c9e850987ca4480cd3a921f.jpg"></article>]]></description>
             <link>https://designschool.canva.com/blog/background-design/</link>
             <guid isPermaLink="false">3b0dbe31-a92d-4619-8db0-4f34d26c2ad6</guid>
             <pubDate>Thu, 18 Aug 2016 07:54:12 GMT</pubDate>
